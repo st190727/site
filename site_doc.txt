@@ -1,3 +1,4 @@
 My text document
 today 05.01.2021
 today 06,01,2020
+learn to push with git
